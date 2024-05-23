@@ -86,9 +86,6 @@ input:focus {
   border-color: rgba(201, 75, 75, 0.5);
 }
 
-.login-btn {
-}
-
 .signup-btn {
   color: #facc15;
   text-align: center;
@@ -118,9 +115,6 @@ input:focus {
   color: #facc15;
   transform: scale(1);
   transition: 0.2s;
-}
-
-.center-btn {
 }
 
 .btn--shockwave.is-active:before {
@@ -256,9 +250,6 @@ input:focus {
   nav {
     transition: 0.3s;
     background-color: rgba(19, 19, 19, 0.8);
-  }
-
-  .menu {
   }
 
   .footbal-img {
